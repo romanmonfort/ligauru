@@ -1,88 +1,100 @@
-
-"entrenador": [
-     {
-        "nombre": "Roman",
-        "especialidad": "Entrenamiento de fuerza",
-        "experiencia": "Más de 10 años de experiencia en levantamiento de pesas.",
-        "titulos": "6",
-      },
-      {
-         "nombre": "Roman",
-         "especialidad": "Entrenamiento de fuerza",
-         "experiencia": "Más de 10 años de experiencia en levantamiento de pesas.",
-         "titulos": "6",
-        },
-        {
-         "nombre": "Roman",
-         "especialidad": "Entrenamiento de fuerza",
-         "experiencia": "Más de 10 años de experiencia en levantamiento de pesas.",
-         "titulos": "6",
-        },
-        {
-         "nombre": "Roman",
-         "especialidad": "Entrenamiento de fuerza",
-         "experiencia": "Más de 10 años de experiencia en levantamiento de pesas.",
-         "titulos": "6",
-        },
-        {
-         "nombre": "Roman",
-         "especialidad": "Entrenamiento de fuerza",
-         "experiencia": "Más de 10 años de experiencia en levantamiento de pesas.",
-         "titulos": "6",
-        },
-        {
-         "nombre": "Roman",
-         "especialidad": "Entrenamiento de fuerza",
-         "experiencia": "Más de 10 años de experiencia en levantamiento de pesas.",
-         "titulos": "6",
-        },
-        {
-         "nombre": "Roman",
-         "especialidad": "Entrenamiento de fuerza",
-         "experiencia": "Más de 10 años de experiencia en levantamiento de pesas.",
-         "titulos": "6",
-        },
-        {
-         "nombre": "Roman",
-         "especialidad": "Entrenamiento de fuerza",
-         "experiencia": "Más de 10 años de experiencia en levantamiento de pesas.",
-         "titulos": "6",
-        },
-        {
-         "nombre": "Roman",
-         "especialidad": "Entrenamiento de fuerza",
-         "experiencia": "Más de 10 años de experiencia en levantamiento de pesas.",
-         "titulos": "6",
-        },
-        {
-         "nombre": "Roman",
-         "especialidad": "Entrenamiento de fuerza",
-         "experiencia": "Más de 10 años de experiencia en levantamiento de pesas.",
-         "titulos": "6",
-        },
-        {
-         "nombre": "Roman",
-         "especialidad": "Entrenamiento de fuerza",
-         "experiencia": "Más de 10 años de experiencia en levantamiento de pesas.",
-         "titulos": "6",
-        },
-        {
-         "nombre": "Roman",
-         "especialidad": "Entrenamiento de fuerza",
-         "experiencia": "Más de 10 años de experiencia en levantamiento de pesas.",
-         "titulos": "6",
-        },
-        {
-         "nombre": "Roman",
-         "especialidad": "Entrenamiento de fuerza",
-         "experiencia": "Más de 10 años de experiencia en levantamiento de pesas.",
-         "titulos": "6",
-        },
-        {
-         "nombre": "Roman",
-         "especialidad": "Entrenamiento de fuerza",
-         "experiencia": "Más de 10 años de experiencia en levantamiento de pesas.",
-         "titulos": "6",
-        }      
-      ]
-  
+[
+  {
+    "nombre": "Roman Monfort",
+    "especialidad": "Brasil/Suecia/Argentina",
+    "experiencia": "4 Temporadas y Un Mundial",
+    "titulos": "6",
+    "img": "https://pbs.twimg.com/profile_images/1565145443293601793/TTxuESgO_400x400.jpg"
+  },
+  {
+    "nombre": "Bernardo Collins",
+    "especialidad": "Brasil",
+    "experiencia": "Especializada en maratones y triatlones.",
+    "titulos": "2",
+    "img": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/8603381f180fd6c7b63be93ebdeeb5b5~c5_100x100.jpeg?x-expires=1694124000&x-signature=bybWb99%2FZJoYlwBqN%2FjjeYFR4oA%3D"
+  },
+  {
+    "nombre": "Ignacio Piriz",
+    "especialidad": "Mundiales,Suecia",
+    "experiencia": "4 Temporadas y Un Mundial",
+    "titulos": "1",
+    "img": "https://pbs.twimg.com/media/FRYrxl0WQAo1JFh?format=webp&name=small"
+  },
+  {
+    "nombre": "juan Nalla",
+    "especialidad": "M",
+    "experiencia": "4 Temporadas y Un Mundial",
+    "titulos": "0",
+    "img": "https://pbs.twimg.com/profile_images/1551720056215715840/xspe9AQf_400x400.jpg"
+  },
+  {
+    "nombre": "Hernan Gutierrez",
+    "especialidad": "Mundiales,Suecia",
+    "experiencia": "4 Temporadas y Un Mundial",
+    "titulos": "0",
+    "img": "https://pbs.twimg.com/media/FTsbMoxWAAEoefZ?format=webp&name=small"
+  },
+  {
+    "nombre": "Nicolas And Rada",
+    "especialidad": "Ninguna",
+    "experiencia": "4 Temporadas y Un Mundial",
+    "titulos": "0",
+    "img": "https://pps.whatsapp.net/v/t61.24694-24/294872694_439138837925489_2155956112031054639_n.jpg?ccb=11-4&oh=01_AdTiDSIKvi5zn2-LXY0o6dyReBTVVJ5lMHsiMvBtMDVrHQ&oe=6500D087&_nc_cat=103"
+  },
+  {
+    "nombre": "Ezequiel Cabrera",
+    "especialidad": "Brasil",
+    "experiencia": "4 Temporadas y Un Mundial",
+    "titulos": "0",
+    "img": "https://pbs.twimg.com/media/FTr3oXAWUAA8CjX?format=webp&name=small"
+  },
+  {
+    "nombre": "Agustin Pelcose",
+    "especialidad": "Perder clasicos",
+    "experiencia": "4 Temporadas y Un Mundial",
+    "titulos": "0",
+    "img": "https://pps.whatsapp.net/v/t61.24694-24/297142699_1421592114985035_1916065905923583261_n.jpg?ccb=11-4&oh=01_AdTnSLFqiHFAEbJZNKC9PgS01C0wrqyCfWzymbP8OitfJA&oe=6500BC5C&_nc_cat=107"
+  },
+  {
+    "nombre": "Alvaro (El cama)",
+    "especialidad": "Ninguna",
+    "experiencia": "4 Temporadas y Un Mundial",
+    "titulos": "0",
+    "img": "https://pbs.twimg.com/profile_images/1675678106701426689/t7kO_v7V_400x400.jpg"
+  },
+  {
+    "nombre": "Facundo Lopez",
+    "especialidad": "Renunciar",
+    "experiencia": "4 Temporadas y Un Mundial",
+    "titulos": "0",
+    "img": "https://pbs.twimg.com/profile_images/1569500160664682496/zsCXSHdR_400x400.jpg"
+  },
+  {
+    "nombre": "Matias Marichal",
+    "especialidad": "Ser ultimo",
+    "experiencia": "4 Temporadas y Un Mundial",
+    "titulos": "0",
+    "img": "https://pbs.twimg.com/profile_images/1645585352147492866/ywdUm9vi_400x400.jpg"
+  },
+  {
+    "nombre": "Sebastian Vega",
+    "especialidad": "Ninguna",
+    "experiencia": "4 Temporadas y Un Mundial",
+    "titulos": "0",
+    "img": "https://pbs.twimg.com/profile_images/1680126139065401346/9XXCQvAX_400x400.jpg"
+  },
+  {
+    "nombre": "Agustin Rivero",
+    "especialidad": "Ninguna",
+    "experiencia": "4 Temporadas y Un Mundial",
+    "titulos": "0",
+    "img": "https://pbs.twimg.com/media/FUwLLGJWQAE1bNk?format=webp&name=small"
+  },
+  {
+    "nombre": "Santiago Martinez",
+    "especialidad": "Maestro",
+    "experiencia": "4 Temporadas y Un Mundial",
+    "titulos": "0",
+    "img": "https://pps.whatsapp.net/v/t61.24694-24/311609660_533083208659179_1810801665378238731_n.jpg?ccb=11-4&oh=01_AdS_FYYkgMAxRmgLEBAMlRAh3rHwV4_gNx8nXAEoWnc0ZQ&oe=6500DDE0&_nc_cat=102"
+  }
+]

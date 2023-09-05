@@ -1,0 +1,63 @@
+
+h1{
+    text-align: center;
+    background-color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style: solid;
+    border-color: rgb(255, 0, 0) ;
+}
+
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: 'Bebas Neue', sans-serif;
+    background-image: url("https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80");
+    background-size: cover;
+    background-color: #f0f0f0; 
+} 
+
+nav ul {
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+.inicio {
+    background-color: #000000;
+    color: #fff;
+}
+
+.inicio__li a{
+    margin-right: 400px;
+    text-decoration: maroon;
+    color: #ffffff;
+
+}
+nav a:hover {
+    color: #fefa00;
+}
+
+.inicio__img{
+    margin-left: 300px;
+   align-items: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    height: 100vh;
+}
+.entrenadores{
+    color: #fff;
+    text-align: center;
+    margin: 10px;
+}
+
+.entrenadores__nombre{
+    background-color: #f54707;
+    display: inline-block;
+}
+.entrenadores__img{
+    height: 80px;
+    width: auto;
+    outline: #000000;
+    outline-style: double;
+}
