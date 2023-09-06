@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 const arbol = document.querySelector(".arbol")
 
-fetch('entrandores.json')
+fetch('DATA/entrandores.json')
     .then((response) => {
         if (!response.ok) {
             throw new Error('Error al cargar.');

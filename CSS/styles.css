@@ -10,7 +10,7 @@ h1{
 body {
     margin: 0;
     padding: 10px;
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Cinzel', serif;
     background-image: url("https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80");
     background-size: cover;
     background-color: #f0f0f0; 
@@ -45,11 +45,12 @@ nav a:hover {
    align-items: center;
     height: 100vh;
 }
-.entrenadores{
+.entrenadores,.campeonato{
     color: #fff;
     text-align: center;
     margin: 10px;
 }
+
 
 .entrenadores__nombre{
     background-color: #f54707;
@@ -60,4 +61,41 @@ nav a:hover {
     width: auto;
     outline: #000000;
     outline-style: double;
+}
+.entrenadores__img:hover{
+    width: 200px;
+    height: auto;
+}
+
+.campeonato__img{
+    height: 140px;
+    width: auto;
+    outline: #000000;
+    outline-style: double;
+}
+
+.campeonato__img:hover{
+   
+    width: 300px;
+    height: auto;
+}
+.campeonato{
+  height: 400px;
+  width: auto;
+  font-size: 19px;
+}
+.campeonato__nombre{
+    background-color: #000000;
+    border-color: #f54707;
+    border-radius: 10%;
+    border-style:solid;
+    display: inline-block;
+}
+.campeonato__campeones{
+    display:inline-block;
+    color:  #f9ef7b;
+    background-color: #000000;
+    outline-color: #f5ed07;
+    outline-style:inset;
+    
 }
